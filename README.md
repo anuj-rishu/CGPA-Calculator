@@ -144,6 +144,4 @@ This project is part of the SRM E-Library ecosystem, maintained by the SRM Insid
 
 For support, join our WhatsApp community or reach out via Instagram/LinkedIn.
 
----
 
-**Made with 💙 by SRM Insider Community**
